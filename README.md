@@ -15,9 +15,9 @@ dashboard.html - contains tableau dashboard <br/>
 
 
 
-I intended to solve the problem of prioritizing vaccine demographically in district level,considering the factors related as follows:
+I intended to solve the problem of prioritizing vaccine demographically in district level,considering the related factors:
 
-1.Demographic (urbanization, Population Density, Elderly People).<br />
+1.Demographic (Urbanization, Population Density, Elderly People).<br />
 2.Cold Chain Facilities(Cold Chain Points and Cold Chain Equipment’s).<br />
 3.Health System(% of Population with full Immunization).<br />
 4.Morbidity Patients.<br />
@@ -26,3 +26,5 @@ I intended to solve the problem of prioritizing vaccine demographically in distr
 
 
 ![Flow Diagram](https://github.com/dineshy98/EY_Prioritize-vaccine-delivery-using-AI-ML/blob/main/approach%20diagram.PNG  "Title")
+
+
