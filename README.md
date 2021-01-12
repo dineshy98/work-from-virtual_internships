@@ -25,6 +25,13 @@ I intended to solve the problem of prioritizing vaccine demographically in distr
 ### APPROACH ###
 
 
-![Flow Diagram](https://github.com/dineshy98/EY_Prioritize-vaccine-delivery-using-AI-ML/blob/main/approach%20diagram.PNG  "Title")
+![Flow Diagram](https://github.com/dineshy98/EY_Prioritize-vaccine-delivery-using-AI-ML/blob/main/approach%20diagram.PNG  "Flow Diagram")
+
+
+### Clustered Diagram ###
+
+![ScatterPlot of District Index vs Covid19 Index](https://github.com/dineshy98/EY_Prioritize-vaccine-delivery-using-AI-ML/blob/main/approach%20diagram.PNG "ScatterPlot of District Index vs Covid19 Index")
+
+
 
 
