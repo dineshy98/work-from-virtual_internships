@@ -23,4 +23,5 @@ I intended to solve the problem of prioritizing vaccine demographically in distr
 4.Morbidity Patients.<br />
 5.COVID-19 Active Cases.<br />
 
+
 ![alt text](https://github.com/dineshy98/EY_Prioritize-vaccine-delivery-using-AI-ML/blob/main/approach%20diagram.PNG)
