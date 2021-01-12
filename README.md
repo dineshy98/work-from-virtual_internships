@@ -2,10 +2,7 @@
 
 # EY_Prioritize-vaccine-delivery-using-AI-ML
 
-For Dashboard Please Visit my Tableau Profile
-[Tableau Public Dashboard Link](https://public.tableau.com/profile/dinesh3497#!/)
-
-
+#### Dashboard ####: [Tableau Public Dashboard Link](https://public.tableau.com/profile/dinesh3497#!/)
 
 
 datasets folder - Contains All data used in this Study<br/>
@@ -32,7 +29,6 @@ I intended to solve the problem of prioritizing vaccine demographically in distr
 
 <img src="https://github.com/dineshy98/EY_Prioritize-vaccine-delivery-using-AI-ML/blob/main/clustered%20covid_index%20vs%20dist_index.PNG" width="650" height="400">
 
-![ScatterPlot of District Index vs Covid19 Index](https://github.com/dineshy98/EY_Prioritize-vaccine-delivery-using-AI-ML/blob/main/clustered%20covid_index%20vs%20dist_index.PNG){:height="100px" width="170px"}
 
 
 
