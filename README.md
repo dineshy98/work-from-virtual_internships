@@ -30,7 +30,7 @@ I intended to solve the problem of prioritizing vaccine demographically in distr
 
 ### Clustered Diagram ###
 
-<img src="https://github.com/dineshy98/EY_Prioritize-vaccine-delivery-using-AI-ML/blob/main/clustered%20covid_index%20vs%20dist_index.PNG" width="750" width="400">
+<img src="https://github.com/dineshy98/EY_Prioritize-vaccine-delivery-using-AI-ML/blob/main/clustered%20covid_index%20vs%20dist_index.PNG" width="650" width="400">
 
 ![ScatterPlot of District Index vs Covid19 Index](https://github.com/dineshy98/EY_Prioritize-vaccine-delivery-using-AI-ML/blob/main/clustered%20covid_index%20vs%20dist_index.PNG){:height="100px" width="170px"}
 
