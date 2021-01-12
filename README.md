@@ -23,4 +23,4 @@ I intended to solve the problem of prioritizing vaccine demographically in distr
 4.Morbidity Patients.<br />
 
 
-![Alt text](https://github.com/dineshy98/EY_Prioritize-vaccine-delivery-using-AI-ML/blob/main/approach%20diagram.PNG)
+![Alt text](https://github.com/dineshy98/EY_Prioritize-vaccine-delivery-using-AI-ML/blob/main/approach%20diagram.PNG  =250x250)
