@@ -2,7 +2,7 @@
 
 # EY_Prioritize-vaccine-delivery-using-AI-ML #
 
-## Dashboard : [Tableau Public Dashboard Link](https://public.tableau.com/profile/dinesh3497#!/)
+### Dashboard : [Tableau Public Dashboard Link](https://public.tableau.com/profile/dinesh3497#!/)
 
 
 datasets folder - Contains All data used in this Study<br/>
@@ -21,6 +21,7 @@ I intended to solve the problem of prioritizing vaccine demographically in distr
 
 ### APPROACH ###
 
+District Level Index : It is the Composite effect of the above factors.Higher the value the more chances of failure in vaccine delivery tp a district
 
 ![Flow Diagram](https://github.com/dineshy98/EY_Prioritize-vaccine-delivery-using-AI-ML/blob/main/approach%20diagram.PNG  "Flow Diagram")
 
