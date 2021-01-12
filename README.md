@@ -22,5 +22,7 @@ I intended to solve the problem of prioritizing vaccine demographically in distr
 3.Health System(% of Population with full Immunization).<br />
 4.Morbidity Patients.<br />
 
+### APPROACH ###
+
 
 ![Flow Diagram](https://github.com/dineshy98/EY_Prioritize-vaccine-delivery-using-AI-ML/blob/main/approach%20diagram.PNG  "Title")
