@@ -17,7 +17,7 @@ For Dashboard Please Visit my Tableau Profile
 
 In this study I intended to solve the problem of prioritizing vaccine demographically in district level,considering the factors like 
 
-1.Demographic (urbanization, Population Density, Elderly People).
-2.Cold Chain Facilities(Cold Chain Points and Cold Chain Equipment’s).
-3.Health System(% of Population with full Immunization).
-4.Morbidity Patients.
+1.Demographic (urbanization, Population Density, Elderly People).<br />
+2.Cold Chain Facilities(Cold Chain Points and Cold Chain Equipment’s).<br />
+3.Health System(% of Population with full Immunization).<br />
+4.Morbidity Patients.<br />
